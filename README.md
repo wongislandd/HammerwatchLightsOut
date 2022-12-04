@@ -3,5 +3,8 @@ Solver script for the puzzle part of Heroes of Hammerwatch, which actually turns
 
 Solved with a bunch of friends starting Saturday night and going till 3am. Good times.
 
+![](https://media4.giphy.com/media/pwAuOJu2kmPB8RwsiP/giphy.gif?cid=5e214886043c04886489775275523e1b4ab30b0d6029a651&rid=giphy.gif&ct=g)
 
-[test](https://i.gyazo.com/f990923bd1946c8d43de2d2be265d1aa.mp4)
+
+
+![image](https://user-images.githubusercontent.com/46093907/205481014-093b6532-70b1-4891-861b-3703067c678a.png)
